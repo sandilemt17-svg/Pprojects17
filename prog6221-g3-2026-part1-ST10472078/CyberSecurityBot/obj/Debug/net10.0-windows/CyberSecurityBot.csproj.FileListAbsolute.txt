@@ -1,0 +1,39 @@
+C:\Users\lab_services_student\source\repos\CyberSecurityBot\CyberSecurityBot\obj\Debug\net10.0-windows\CyberSecurityBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\source\repos\CyberSecurityBot\CyberSecurityBot\obj\Debug\net10.0-windows\CyberSecurityBot.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\source\repos\CyberSecurityBot\CyberSecurityBot\obj\Debug\net10.0-windows\CyberSecurityBot.AssemblyInfo.cs
+C:\Users\lab_services_student\source\repos\CyberSecurityBot\CyberSecurityBot\obj\Debug\net10.0-windows\CyberSecurityBot.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\source\repos\CyberSecurityBot\CyberSecurityBot\obj\Debug\net10.0-windows\CyberSecurityBot.csproj.AssemblyReference.cache
+C:\Users\lab_services_student\source\repos\CyberSecurityBot\CyberSecurityBot\bin\Debug\net10.0-windows\CyberSecurityBot.exe
+C:\Users\lab_services_student\source\repos\CyberSecurityBot\CyberSecurityBot\bin\Debug\net10.0-windows\greeting.wav
+C:\Users\lab_services_student\source\repos\CyberSecurityBot\CyberSecurityBot\bin\Debug\net10.0-windows\CyberSecurityBot.deps.json
+C:\Users\lab_services_student\source\repos\CyberSecurityBot\CyberSecurityBot\bin\Debug\net10.0-windows\CyberSecurityBot.runtimeconfig.json
+C:\Users\lab_services_student\source\repos\CyberSecurityBot\CyberSecurityBot\bin\Debug\net10.0-windows\CyberSecurityBot.dll
+C:\Users\lab_services_student\source\repos\CyberSecurityBot\CyberSecurityBot\bin\Debug\net10.0-windows\CyberSecurityBot.pdb
+C:\Users\lab_services_student\source\repos\CyberSecurityBot\CyberSecurityBot\bin\Debug\net10.0-windows\System.Windows.Extensions.dll
+C:\Users\lab_services_student\source\repos\CyberSecurityBot\CyberSecurityBot\bin\Debug\net10.0-windows\runtimes\win\lib\net10.0\System.Windows.Extensions.dll
+C:\Users\lab_services_student\source\repos\CyberSecurityBot\CyberSecurityBot\obj\Debug\net10.0-windows\CyberSec.8B1038FD.Up2Date
+C:\Users\lab_services_student\source\repos\CyberSecurityBot\CyberSecurityBot\obj\Debug\net10.0-windows\CyberSecurityBot.dll
+C:\Users\lab_services_student\source\repos\CyberSecurityBot\CyberSecurityBot\obj\Debug\net10.0-windows\refint\CyberSecurityBot.dll
+C:\Users\lab_services_student\source\repos\CyberSecurityBot\CyberSecurityBot\obj\Debug\net10.0-windows\CyberSecurityBot.pdb
+C:\Users\lab_services_student\source\repos\CyberSecurityBot\CyberSecurityBot\obj\Debug\net10.0-windows\CyberSecurityBot.genruntimeconfig.cache
+C:\Users\lab_services_student\source\repos\CyberSecurityBot\CyberSecurityBot\obj\Debug\net10.0-windows\ref\CyberSecurityBot.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Prog6221POE\prog6221-g3-2026-part1-ST10472078\CyberSecurityBot\bin\Debug\net10.0-windows\CyberSecurityBot.exe
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Prog6221POE\prog6221-g3-2026-part1-ST10472078\CyberSecurityBot\bin\Debug\net10.0-windows\greeting.wav
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Prog6221POE\prog6221-g3-2026-part1-ST10472078\CyberSecurityBot\bin\Debug\net10.0-windows\CyberSecurityBot.deps.json
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Prog6221POE\prog6221-g3-2026-part1-ST10472078\CyberSecurityBot\bin\Debug\net10.0-windows\CyberSecurityBot.runtimeconfig.json
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Prog6221POE\prog6221-g3-2026-part1-ST10472078\CyberSecurityBot\bin\Debug\net10.0-windows\CyberSecurityBot.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Prog6221POE\prog6221-g3-2026-part1-ST10472078\CyberSecurityBot\bin\Debug\net10.0-windows\CyberSecurityBot.pdb
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Prog6221POE\prog6221-g3-2026-part1-ST10472078\CyberSecurityBot\bin\Debug\net10.0-windows\System.Windows.Extensions.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Prog6221POE\prog6221-g3-2026-part1-ST10472078\CyberSecurityBot\bin\Debug\net10.0-windows\runtimes\win\lib\net10.0\System.Windows.Extensions.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Prog6221POE\prog6221-g3-2026-part1-ST10472078\CyberSecurityBot\obj\Debug\net10.0-windows\CyberSecurityBot.csproj.AssemblyReference.cache
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Prog6221POE\prog6221-g3-2026-part1-ST10472078\CyberSecurityBot\obj\Debug\net10.0-windows\CyberSecurityBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Prog6221POE\prog6221-g3-2026-part1-ST10472078\CyberSecurityBot\obj\Debug\net10.0-windows\CyberSecurityBot.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Prog6221POE\prog6221-g3-2026-part1-ST10472078\CyberSecurityBot\obj\Debug\net10.0-windows\CyberSecurityBot.AssemblyInfo.cs
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Prog6221POE\prog6221-g3-2026-part1-ST10472078\CyberSecurityBot\obj\Debug\net10.0-windows\CyberSecurityBot.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Prog6221POE\prog6221-g3-2026-part1-ST10472078\CyberSecurityBot\obj\Debug\net10.0-windows\CyberSecurityBot.sourcelink.json
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Prog6221POE\prog6221-g3-2026-part1-ST10472078\CyberSecurityBot\obj\Debug\net10.0-windows\CyberSec.8B1038FD.Up2Date
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Prog6221POE\prog6221-g3-2026-part1-ST10472078\CyberSecurityBot\obj\Debug\net10.0-windows\CyberSecurityBot.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Prog6221POE\prog6221-g3-2026-part1-ST10472078\CyberSecurityBot\obj\Debug\net10.0-windows\refint\CyberSecurityBot.dll
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Prog6221POE\prog6221-g3-2026-part1-ST10472078\CyberSecurityBot\obj\Debug\net10.0-windows\CyberSecurityBot.pdb
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Prog6221POE\prog6221-g3-2026-part1-ST10472078\CyberSecurityBot\obj\Debug\net10.0-windows\CyberSecurityBot.genruntimeconfig.cache
+C:\Users\lab_services_student\OneDrive - ADvTECH Ltd\Prog6221POE\prog6221-g3-2026-part1-ST10472078\CyberSecurityBot\obj\Debug\net10.0-windows\ref\CyberSecurityBot.dll

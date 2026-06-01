@@ -1,0 +1,4 @@
+C:\Users\lab_services_student\source\repos\CyberSecurityBot\CyberSecurityBot\obj\Debug\net10.0\CyberSecurityBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\source\repos\CyberSecurityBot\CyberSecurityBot\obj\Debug\net10.0\CyberSecurityBot.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\source\repos\CyberSecurityBot\CyberSecurityBot\obj\Debug\net10.0\CyberSecurityBot.AssemblyInfo.cs
+C:\Users\lab_services_student\source\repos\CyberSecurityBot\CyberSecurityBot\obj\Debug\net10.0\CyberSecurityBot.csproj.CoreCompileInputs.cache
