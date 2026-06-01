@@ -1,0 +1,18 @@
+EventEaseSystem
+> A cloud-based event management platform for organisers and attendees.
+
+Overview
+> EventEaseSystem helps users create, manage, and book events with real-time seat availability. Built as a student cloud project to learn serverless architecture
+and infrastructure as code.
+
+Database: Local DBS within MS Visual Studio.
+Storage: Azurite for event images.
+
+Features
+- Create, edit, and delete events and venues.
+- Event search & filters (planned).
+- Error message when an attempt to delete a booked venue is prompted.
+
+How To Run
+> Clone the repo
+git clone https://github.com/sandilemt17-svg/Pprojects17/EventEaseSystem.git
