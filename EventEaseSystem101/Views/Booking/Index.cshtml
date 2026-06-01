@@ -1,0 +1,61 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model IEnumerable<EventEaseSystem.Models.Booking>
+
+@{
+    ViewData["Title"] = "Bookings";
+}
+
+<h1>Bookings</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Create New Booking</a>
+</p>
+
+<div class="row mb-3">
+    <div class="col-md-8">
+        <form asp-action="Index" method="get" class="row g-2">
+            <div class="col-md-5">
+                <input type="text" name="searchString" class="form-control" placeholder="Search customer, venue, event..." value="@Context.Request.Query["searchString"]" />
+            </div>
+            <div class="col-md-3">
+                <input type="date" name="searchDate" class="form-control" value="@Context.Request.Query["searchDate"]" />
+            </div>
+            <div class="col-md-4">
+                <button type="submit" class="btn btn-outline-primary">Search</button>
+                <a asp-action="Index" class="btn btn-outline-secondary">Clear</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.BookingDate)</th>
+            <th>Venue</th>
+            <th>Event</th>
+            <th>@Html.DisplayNameFor(model => model.CustomerName)</th>
+            <th>@Html.DisplayNameFor(model => model.CustomerEmail)</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.BookingDate.ToShortDateString()</td>
+                <td>@(item.Venue?.VenueName ?? "N/A")</td>
+                <td>@(item.Event?.EventName ?? "N/A")</td>
+                <td>@Html.DisplayFor(modelItem => item.CustomerName)</td>
+                <td>@Html.DisplayFor(modelItem => item.CustomerEmail)</td>
+                <td>
+                    <a asp-action="Details" asp-route-id="@item.BookingId" class="btn btn-sm btn-info">Details</a>
+                    <a asp-action="Edit" asp-route-id="@item.BookingId" class="btn btn-sm btn-warning">Edit</a>
+                    <a asp-action="Delete" asp-route-id="@item.BookingId" class="btn btn-sm btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

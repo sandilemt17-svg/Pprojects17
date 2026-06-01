@@ -1,0 +1,180 @@
+﻿@{
+    ViewData["Title"] = "Privacy Policy";
+}
+<h1>@ViewData["Title"]</h1>
+<p class="text-muted">Last Updated: @DateTime.Now.ToString("MMMM dd, yyyy")</p>
+
+<hr />
+
+<div class="row">
+    <div class="col-md-8">
+        <h3>1. Information We Collect</h3>
+        <p>
+            EventEase collects customer information necessary for venue and event bookings, including:
+        </p>
+        <ul>
+            <li><strong>Customer Name</strong> - For booking identification</li>
+            <li><strong>Email Address</strong> - For booking confirmations and updates</li>
+            <li><strong>Phone Number</strong> - For urgent communication regarding bookings</li>
+            <li><strong>Booking Details</strong> - Venue selection, event type, and dates</li>
+            <li><strong>Special Requests</strong> - Any additional requirements for your event</li>
+        </ul>
+
+        <h3 class="mt-4">2. How We Use Your Information</h3>
+        <p>
+            Your information is used exclusively for:
+        </p>
+        <ul>
+            <li>Processing and confirming venue bookings</li>
+            <li>Communicating important event details</li>
+            <li>Improving our booking services</li>
+            <li>Internal record-keeping and analytics</li>
+        </ul>
+        <p class="text-muted">
+            <i class="bi bi-shield-check"></i> We never sell or share your personal information with third parties.
+        </p>
+
+        <h3 class="mt-4">3. Data Security</h3>
+        <p>
+            EventEase takes data security seriously:
+        </p>
+        <ul>
+            <li>All booking data is stored securely in our encrypted database</li>
+            <li>Access to customer information is restricted to authorized booking specialists only</li>
+            <li>Regular security audits ensure compliance with data protection standards</li>
+            <li>Local database storage with future cloud migration maintains data integrity</li>
+        </ul>
+
+        <h3 class="mt-4">4. Data Retention</h3>
+        <p>
+            We retain booking information for as long as necessary to:
+        </p>
+        <ul>
+            <li>Fulfill the purposes outlined in this privacy policy</li>
+            <li>Comply with legal and regulatory requirements</li>
+            <li>Resolve disputes and enforce agreements</li>
+        </ul>
+
+        <h3 class="mt-4">5. Your Rights</h3>
+        <p>
+            As a customer of EventEase, you have the right to:
+        </p>
+        <ul>
+            <li>Access your personal information we hold</li>
+            <li>Request corrections to inaccurate information</li>
+            <li>Request deletion of your data (subject to legal requirements)</li>
+            <li>Opt-out of non-essential communications</li>
+        </ul>
+        <p>
+            To exercise these rights, please contact our booking specialists.
+        </p>
+
+        <h3 class="mt-4">6. Cookies</h3>
+        <p>
+            EventEase uses essential session cookies to:
+        </p>
+        <ul>
+            <li>Maintain your browsing session</li>
+            <li>Remember your preferences</li>
+            <li>Ensure secure access to the booking system</li>
+        </ul>
+        <p>
+            No tracking or advertising cookies are used on this platform.
+        </p>
+
+        <h3 class="mt-4">7. Contact Information</h3>
+        <div class="card bg-light">
+            <div class="card-body">
+                <h5 class="card-title">EventEase Booking Specialists</h5>
+                <p class="card-text mb-1">
+                    <i class="bi bi-envelope"></i> <strong>Email:</strong> privacy@eventease.com
+                </p>
+                <p class="card-text mb-1">
+                    <i class="bi bi-telephone"></i> <strong>Phone:</strong> (555) 123-4567
+                </p>
+                <p class="card-text">
+                    <i class="bi bi-geo-alt"></i> <strong>Address:</strong> 123 Main Street, Suite 400, Business District
+                </p>
+                <p class="card-text">
+                    <i class="bi bi-clock"></i> <strong>Hours:</strong> Monday - Friday, 9:00 AM - 6:00 PM
+                </p>
+            </div>
+        </div>
+
+        <h3 class="mt-4">8. Updates to This Policy</h3>
+        <p>
+            EventEase may update this privacy policy periodically.
+            Changes will be posted on this page with an updated revision date.
+            Continued use of our booking services constitutes acceptance of any changes.
+        </p>
+
+        <hr class="mt-4" />
+
+        <div class="alert alert-info">
+            <i class="bi bi-info-circle"></i>
+            <strong>Questions about our privacy practices?</strong>
+            <br />
+            Our booking specialists are available to address any concerns about how we handle your information.
+            Please contact us using the information above.
+        </div>
+    </div>
+
+    <div class="col-md-4">
+        <div class="card">
+            <div class="card-header bg-primary text-white">
+                <h5 class="mb-0">Quick Summary</h5>
+            </div>
+            <div class="card-body">
+                <ul class="list-unstyled">
+                    <li class="mb-3">
+                        <i class="bi bi-check-circle-fill text-success"></i>
+                        <strong>We collect:</strong> Name, email, phone, booking details
+                    </li>
+                    <li class="mb-3">
+                        <i class="bi bi-check-circle-fill text-success"></i>
+                        <strong>We don't:</strong> Sell or share your data
+                    </li>
+                    <li class="mb-3">
+                        <i class="bi bi-check-circle-fill text-success"></i>
+                        <strong>Security:</strong> Encrypted local database
+                    </li>
+                    <li class="mb-3">
+                        <i class="bi bi-check-circle-fill text-success"></i>
+                        <strong>Access:</strong> Authorized specialists only
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="card mt-4">
+            <div class="card-header bg-secondary text-white">
+                <h5 class="mb-0">Need Help?</h5>
+            </div>
+            <div class="card-body">
+                <p>Have questions about your booking or our privacy practices?</p>
+                <a asp-controller="Home" asp-action="Index" class="btn btn-outline-primary w-100">
+                    <i class="bi bi-arrow-left"></i> Back to Dashboard
+                </a>
+                <a href="mailto:privacy@eventease.com" class="btn btn-outline-secondary w-100 mt-2">
+                    <i class="bi bi-envelope"></i> Email Privacy Team
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+
+@section Styles {
+    <style>
+        h3 {
+            color: #2c3e50;
+            border-bottom: 2px solid #3498db;
+            padding-bottom: 8px;
+        }
+
+        .card-header {
+            font-weight: 600;
+        }
+    </style>
+}
+
