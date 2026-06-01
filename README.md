@@ -6,6 +6,7 @@ Overview
 and infrastructure as code.
 
 Database: Local DBS within MS Visual Studio.
+
 Storage: Azurite for event images.
 
 Features
